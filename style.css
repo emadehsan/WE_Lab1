@@ -11,6 +11,15 @@ body {
 	text-decoration: none;
 }
 
+.gray-back tr td:hover {
+	/*background: #ecf0f1;*/
+}
+
 .gray-back tr td a:hover{
 	color: #c0392b;
 }
+
+h1, h2 {
+	color: #e74c3c;
+}
+
