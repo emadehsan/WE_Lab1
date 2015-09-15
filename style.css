@@ -1,6 +1,7 @@
 body {
 	font-family: 'Montserrat', sans-serif;
 	background-color: #ecf0f1;
+	margin: 15px;
 }
 .gray-back {
 	background-color: #e74c3c;
@@ -19,7 +20,7 @@ body {
 	color: #c0392b;
 }
 
-h1, h2 {
+h1, h2, h3, h4 {
 	color: #e74c3c;
 }
 
