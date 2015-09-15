@@ -1,0 +1,16 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+	background-color: #ecf0f1;
+}
+.gray-back {
+	background-color: #e74c3c;
+	font-size: 32px;
+}
+.gray-back tr td a {
+	color: white;
+	text-decoration: none;
+}
+
+.gray-back tr td a:hover{
+	color: #c0392b;
+}
